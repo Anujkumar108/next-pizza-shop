@@ -211,7 +211,7 @@ function AuthForm() {
                       </span>
                     </div>
                   ) : isSignUp ? (
-                    'Join SahandPizza Family! 🍕'
+                    'Join SliceHub Family! 🍕'
                   ) : (
                     'Welcome Back! 🎉'
                   )}
@@ -225,7 +225,7 @@ function AuthForm() {
             <p className='text-sm xs:text-base sm:text-lg text-gray-600 dark:text-gray-300 text-center'>
               {isSignUp
                 ? 'Already part of our pizza family?'
-                : 'New to SahandPizza?'}
+                : 'New to SliceHub?'}
             </p>
             <Button
               variant='link'

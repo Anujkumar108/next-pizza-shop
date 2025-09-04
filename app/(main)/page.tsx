@@ -182,7 +182,7 @@ export default function HomePage() {
           <div className='text-center mb-12 sm:mb-16'>
             <h2 className='text-3xl sm:text-4xl lg:text-5xl font-black mb-3 sm:mb-4'>
               <span className='bg-gradient-to-r from-red-600 via-orange-500 to-yellow-500 bg-clip-text text-transparent'>
-                Why Choose SahandPizza?
+                Why Choose SliceHub?
               </span>
             </h2>
             <p className='text-base sm:text-lg md:text-xl text-gray-600 dark:text-gray-300 max-w-3xl mx-auto px-4'>
@@ -399,7 +399,7 @@ export default function HomePage() {
                   </div>
                   <div>
                     <div className='font-semibold text-sm sm:text-base text-gray-900 dark:text-gray-100'>
-                      hello@sahandpizza.com
+                      hello@SliceHub.com
                     </div>
                     <div className='text-xs sm:text-sm text-gray-600 dark:text-gray-400'>
                       We&apos;d love to hear from you!
